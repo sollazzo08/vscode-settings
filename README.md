@@ -54,6 +54,8 @@ All of the settings / extensions I use in VS Code.
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
     }
+    "go.toolsManagement.autoUpdate": true,
+    "liveServer.settings.donotShowInfoMsg": true
 }
 ```
 
@@ -79,5 +81,4 @@ List of Visual Studio Code extensions I use for development.
 | `ms-python.vscode-pylance`      | Pylance for fast and feature-rich Python IntelliSense.   |
 | `prisma.prisma`                 | Prisma tools for database development.                   |
 | `vscode-icons-team.vscode-icons`| Adds icons to files and folders for better visibility.   |
-
-
+| `ritwickdey.LiveServer`         | Launch a development local Server with live reload feature for static & dynamic pages. |
